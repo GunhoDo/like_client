@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "like_client", "like_client.vcxproj", "{0399C5A2-7162-45B2-8232-5C4BDE3490DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0399C5A2-7162-45B2-8232-5C4BDE3490DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0399C5A2-7162-45B2-8232-5C4BDE3490DA}.Debug|Win32.Build.0 = Debug|Win32
+		{0399C5A2-7162-45B2-8232-5C4BDE3490DA}.Release|Win32.ActiveCfg = Release|Win32
+		{0399C5A2-7162-45B2-8232-5C4BDE3490DA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
